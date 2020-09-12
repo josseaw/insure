@@ -172,11 +172,15 @@
     background: linear-gradient(180deg, #2c2640 70%, #ffffff 30%);
 }
 
+.how-we-work .container-fluid .row {
+    flex-direction: row;
+}
+
 @media (max-width: 755px) {
     .how-we-work {
         background: #2c2640;
     }
-    .how-we-work .row {
+    .how-we-work .container-fluid .row {
         flex-direction: row-reverse;
     }
 }
