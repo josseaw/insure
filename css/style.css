@@ -172,9 +172,12 @@
     background: linear-gradient(180deg, #2c2640 70%, #ffffff 30%);
 }
 
-@media (max-width: 645px) {
+@media (max-width: 755px) {
     .how-we-work {
         background: #2c2640;
+    }
+    .how-we-work .row {
+        flex-direction: row-reverse;
     }
 }
 
