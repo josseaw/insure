@@ -325,7 +325,7 @@
         text-align: center;
         font-size: 60px;
     }
-    .different .col-12.col-md-4 {
+    .different .col-md-4 {
         display: flex;
         justify-content: center;
         align-items: center;
@@ -406,7 +406,7 @@
     }
 }
 
-.form-find .col-12.col-md-4 {
+.form-find .col-md-4 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -515,7 +515,7 @@
     border-bottom: none;
 }
 
-.contact .col-12.col-md-3 {
+.contact .col-md-3 {
     flex-direction: column;
 }
 
