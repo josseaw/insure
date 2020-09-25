@@ -406,6 +406,12 @@
     }
 }
 
+@media (max-width: 540px) {
+    .form-find h2 {
+        font-size: 45px;
+    }
+}
+
 .form-find .col-md-4 {
     display: flex;
     justify-content: center;
